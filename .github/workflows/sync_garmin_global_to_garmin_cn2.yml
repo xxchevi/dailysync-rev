@@ -1,4 +1,4 @@
-name: Sync Garmin Global to Garmin CN
+name: Sync Garmin Global to Garmin CN2
 
 on:
   workflow_dispatch:
